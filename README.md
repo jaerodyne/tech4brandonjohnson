@@ -1,3 +1,5 @@
+# 🚧 Under Construction, Pardon the Mess ✨
+
 ![tech4brandonjohnson](https://user-images.githubusercontent.com/17561356/227013522-77e857da-5967-4c8e-af96-cf350de15e4a.png)
 
 ## What Is This?
@@ -36,9 +38,11 @@ Now, here are the values and the issues I care about as a tech worker that are s
 
 🥧 Our leaders have failed us. Despite performative efforts, the staggering wealth of our nation still belongs to the rich, white, and male 1%. Meanwhile, the rest of us 99% continue to toil and serve capitalism to fight for our piece of the pie.
 
-🥊 Brandon Johnson is a born, bred, and active Chicagoan who is a former Chicago Public Schools educator, community organizer, and future public office collaborator who runs in opposition to Paul Vallas, a far-right affiliated white supremacist who has eradicated public education in New Orleans, Philadelphia, and Bridgeport, Connecticut. Read more on Vallas's legacy here: https://stopvallas.com/anti-union-privatization/.
+🥊 Brandon Johnson is a born, bred, and active Chicagoan who is a former Chicago Public Schools educator, community organizer, and future public office collaborator who runs in opposition to Paul Vallas, a far-right affiliated white supremacist who has eradicated public education in New Orleans, Philadelphia, and Bridgeport, Connecticut. Read more on Vallas's anti-union legacy [here](https://stopvallas.com/anti-union-privatization/).
 
 🌎 The Mayoral Race in the City of Chicago represents that great plight that we feel all around the world and presents us with the unique opportunity to bring down a regime and systems that continue to marginalize, harm, and exploit whole identities, communities, and families that fall outside of the norm.
+
+## TLDR;
 
 *"The whole world is watching because if we can do this in Chicago, we can do it everywhere else."* - Brandon Johnson on the importance of his Mayoral Candidacy
 
