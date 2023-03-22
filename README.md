@@ -1,5 +1,11 @@
 [tech4brandonjohnson.com](tech4brandonjohnson.com)
 
+Sign the Petition In Support of Brandon Johnson, Future Mayor of the City of Chicago. The Chicago Mayoral Runoff Election is on April 4th, 2023. Let’s get to work. – Signed, Jillian Somera, Your Friendly, Neighborhood Election Coordinator for the City of Chicago and Citizen of the 32nd Ward 💙 + Senior Software Engineer who built multimillion dollar fraud detection technology that continues to impact millions of Americans daily + Other Manic Talents
+
+Wanna get involved in the good fight and block his far-right affiliated white supremacist opposition from upholding the same systemic issue shit? Help build some tech while you’re at it. Feel free to contribute to any of these soon to be real open-source repos:
+1. Ask Brandon - A Bot that you can ask about Brandon Johnson's political platform + his fav restaurant in Chicago
+2. Early Voting d3 Map - An interactive map of Chicago's wards and where you can vote early
+
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gomah/bluise)
 
 # Bluise - A Nuxt.js & Netlify CMS boilerplate.
