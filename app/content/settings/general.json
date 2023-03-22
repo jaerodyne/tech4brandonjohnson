@@ -1,10 +1,10 @@
 {
-  "title": "Homev",
-  "titleTemplate": "| Bluise",
-  "welcomeText": "# Sign the Petition In Support of Brandon Johnson, Future Mayor of the City of Chicago. Wanna get involved in the good fight and block his far-right affiliated white supremacist opposing running mate? Build some tech while you're at it. The Chicago Mayoral Runoff Election is on April 4th, 2023. Let's get to work. -- Signed, Jillian Somera, Your Friendly, Neighborhood Election Coordinator for the City of Chicago \n\n\n\n\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
+  "title": "Tech4BrandonJohnson",
+  "titleTemplate": "| Sign the Petition",
+  "welcomeText": "# Sign the Petition In Support of Brandon Johnson, Future Mayor of the City of Chicago. Wanna get involved in the good fight and block his far-right affiliated white supremacist opposition from upholding the same systemic issue shit? Help build some tech while you're at it. Feel free to contribute to any of these open-source repos. The Chicago Mayoral Runoff Election is on April 4th, 2023. Let's get to work. -- Signed, Jillian Somera, Your Friendly, Neighborhood Election Coordinator for the City of Chicago and citizen of the 32nd Ward 💙 \n\n\n\n\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
   "logo": "//uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "seoDescription": "Tech4BrandonJohnson",
   "seoMetaImage": ""
 }
