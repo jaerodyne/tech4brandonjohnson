@@ -1,6 +1,18 @@
-[tech4brandonjohnson.com](tech4brandonjohnson.com)
+![tech4brandonjohnson](https://user-images.githubusercontent.com/17561356/227013522-77e857da-5967-4c8e-af96-cf350de15e4a.png)
 
-Sign the Petition In Support of Brandon Johnson, Future Mayor of the City of Chicago. The Chicago Mayoral Runoff Election is on April 4th, 2023. Let’s get to work. – Signed, Jillian Somera, Your Friendly, Neighborhood Election Coordinator for the City of Chicago and Citizen of the 32nd Ward 💙 + Senior Software Engineer who built multimillion dollar fraud detection technology that continues to impact millions of Americans daily + Other Manic Talents
+## What Is This?
+Visit [https://tech4brandonjohnson.com](https://tech4brandonjohnson.com) to sign the petition in support of Brandon Johnson, future mayor of the City of Chicago.
+
+## Why should I care?
+Our leaders have failed us. Despite performative efforts, the staggering wealth of our nation still belongs to the rich, white, and male 1%. Meanwhile, the rest of us 99% continue to toil and serve capitalism to fight for our piece of the pie. 🥧 The Mayoral Race in the City of Chicago represents that great plight that we feel all around the world 🌎 and presents us with the unique opportunity to bring down a regime and a system that continues to marginalize, harm, and exploit whole identities, communities, and families that fall outside of the rich, white, male identity.
+
+"The whole world is watching because if we can do this in Chicago, we can do it everywhere else." - Brandon Johnson on the importance of his Mayoral Candidacy as a born, bred, and active Chicagoan who is a former Chicago Public Schools educator, community organizer, and future public office collaborator.
+
+The Chicago Mayoral Runoff Election is on April 4th, 2023. Let’s get to work.
+
+– Signed, Jillian Somera, Your Friendly, Neighborhood Election Coordinator for the City of Chicago and Citizen of the 32nd Ward 💙🤍❤️🤍💙 ➕ Senior Software Engineer who built multimillion dollar fraud detection technology that continues to impact millions of Americans daily ➕ Other Manic-Accelerated Talents 🎸🎨👯‍♂️
+
+## Contribute
 
 Wanna get involved in the good fight and block his far-right affiliated white supremacist opposition from upholding the same systemic issue shit? Help build some tech while you’re at it. Feel free to contribute to any of these soon to be real open-source repos:
 1. Ask Brandon - A Bot that you can ask about Brandon Johnson's political platform + his fav restaurant in Chicago
