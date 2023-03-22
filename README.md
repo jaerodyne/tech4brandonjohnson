@@ -1,7 +1,7 @@
 ![tech4brandonjohnson](https://user-images.githubusercontent.com/17561356/227013522-77e857da-5967-4c8e-af96-cf350de15e4a.png)
 
 ## What Is This?
-Visit [https://tech4brandonjohnson.com](https://tech4brandonjohnson.com) to sign the petition in support of Brandon Johnson, future mayor of the City of Chicago.
+Visit [https://tech4brandonjohnson.com](https://tech4brandonjohnson.com) to sign the pledge in support of Brandon Johnson, future Chicago Mayor.
 
 ## Why should I care?
 Our leaders have failed us. Despite performative efforts, the staggering wealth of our nation still belongs to the rich, white, and male 1%. Meanwhile, the rest of us 99% continue to toil and serve capitalism to fight for our piece of the pie. 🥧 The Mayoral Race in the City of Chicago represents that great plight that we feel all around the world 🌎 and presents us with the unique opportunity to bring down a regime and a system that continues to marginalize, harm, and exploit whole identities, communities, and families that fall outside of the rich, white, male identity.
