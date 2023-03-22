@@ -48,7 +48,7 @@ Now, here are the values and the issues I care about as a tech worker that are s
 
 This is a multi-generational, multi-racial movement that takes all of us to enact change. I hope that you will join us and do your part because we can't do it without you: it takes all kinds to progress the advancement of human rights. ✊
 
-The Chicago Mayoral Runoff Election is on April 4th, 2023. Let’s get to work. 👷‍♀️👷👷‍♂️🛠️⚒️
+**The Chicago Mayoral Runoff Election is on April 4th, 2023. Let’s get to work. 👷‍♀️👷👷‍♂️🛠️⚒️**
 
 –- Signed, Jillian Somera
 - ➕ Your Friendly, Neighborhood Election Coordinator for the City of Chicago and Citizen of the 32nd Ward 💙🤍❤️🤍💙
