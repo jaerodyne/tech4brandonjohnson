@@ -1,6 +1,6 @@
-# 🚧 Under Construction, Pardon the Mess ✨
-
 ![tech4brandonjohnson](https://user-images.githubusercontent.com/17561356/227013522-77e857da-5967-4c8e-af96-cf350de15e4a.png)
+
+# 🚧 Under Construction, Pardon the Mess ✨
 
 ## What Is This?
 Visit [https://tech4brandonjohnson.com](https://tech4brandonjohnson.com) to sign the pledge in support of Brandon Johnson, future mayor of the City of Chicago.
