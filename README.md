@@ -40,7 +40,7 @@ Visit [https://tech4brandonjohnson.com](https://tech4brandonjohnson.com) to sign
 
 🥊 Brandon Johnson is a born, bred, and active Chicagoan who is a former Chicago Public Schools educator, community organizer, and future public office collaborator who runs in opposition to Paul Vallas, a far-right affiliated white supremacist who has eradicated public education in New Orleans, Philadelphia, and Bridgeport, Connecticut. Read more on Vallas's anti-union legacy [here](https://stopvallas.com/anti-union-privatization/).
 
-🌎 The Mayoral Race in the City of Chicago represents that great plight that we feel all around the world and presents us with the unique opportunity to bring down a regime and systems that continue to marginalize, harm, and exploit whole identities, communities, and families that fall outside of the norm.
+🌎 The Mayoral Race in the City of Chicago represents that great plight that we feel all around the world and presents us with the unique opportunity to bring down an oppressive regime and its systems that continue to marginalize, harm, and exploit whole individual identities, communities, and families that fall outside of the narrow definition of what societal success looks like.
 
 ## TLDR; It takes all of us to enact change and progress as a society.
 
@@ -58,11 +58,11 @@ This is a multi-generational, multi-racial movement that takes all of us to enac
 
 **P.S. ✨🎉 Shout-out to my fellow neurodivergents cuz we out here working through our trauma in real-time and yet are somehow still committed to making the world a better place 💁‍♀️✨**
 
-## Contribute
+## Contribute 🧍‍♀️🧍🧍🏾‍♂️👫👬
 
-Wanna get involved in the good fight and block his far-right affiliated white supremacist opposition from upholding the same systemic issue shit? Help build some tech while you’re at it. Feel free to contribute to any of these soon to be real open-source repos:
+**Wanna get involved in the good fight and block the far-right affiliated white supremacist opposition from upholding the same old shit? Help build some tech. Feel free to contribute to any of these soon to be real open-source repos:**
 1. Ask Brandon - A Bot that you can ask about Brandon Johnson's political platform + his fav restaurant in Chicago
-2. Early Voting d3 Map - An interactive map of Chicago's wards and where you can vote early
+2. Early Voting in Chicago d3 Map - An interactive map of Chicago's wards and where you can vote early
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gomah/bluise)
 
