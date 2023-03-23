@@ -51,9 +51,12 @@ This is a multi-generational, multi-racial movement that takes all of us to enac
 # **The Chicago Mayoral Runoff Election is on April 4th, 2023. Let’s get to work. 👷‍♀️👷👷‍♂️🛠️⚒️**
 
 ## *–- Signed, Jillian Somera*
-- ➕ *Your Friendly, Neighborhood Election Coordinator for the City of Chicago and Citizen of the 32nd Ward 💙🤍❤️🤍💙*
-- ➕ *Senior Software Engineer who built multimillion dollar fraud detection technology that continues to impact millions of Americans daily*
-- ➕ *Other Manic-Accelerated Talents, Thanks Bipolar Disorder Type I 🎸🎨👯‍♂️👩‍🍳🏄‍♀️📝*
+- *Your Friendly, Neighborhood Election Coordinator for the City of Chicago and Citizen of the 32nd Ward 💙🤍❤️🤍💙*
+- *Sr. Software Engineer who built multimillion dollar fraud detection technology that continues to impact millions of Americans daily*
+- *Polyglot🇺🇸🇵🇭🇯🇵🇲🇽✚*
+- *Other Manic-Accelerated Talents, Thanks Bipolar Disorder Type I 🎸🥁🎤🎹👩‍🎤🎨👯‍♂️👩‍🍳🏄‍♀️📝*
+
+**P.S. ✨🎉 Shout-out to my fellow neurodivergents cuz we out here working through our trauma in real-time and yet are somehow still committed to making the world a better place 💁‍♀️✨**
 
 ## Contribute
 
