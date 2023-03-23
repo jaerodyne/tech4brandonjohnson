@@ -25,7 +25,7 @@ Good question 💡.
 ## What Values Brandon Johnson and I Share
 
 Now, here are the values and the issues I care about as a tech worker that are shared by Brandon Johnson as outlined by ChatGPT:
-- Addressing gender equity
+- Addressing gender inequity
 - Addressing pay disparity for girls, women, transgender, and gender non-conforming persons
 - Public Safety: Addressing gender-based violence, sexual assault, providing economic opportunities for women and girls
 - Health care access expansion
@@ -44,16 +44,16 @@ Now, here are the values and the issues I care about as a tech worker that are s
 
 ## TLDR; It takes all of us to enact change and progress as a society.
 
-*"The whole world is watching because if we can do this in Chicago, we can do it everywhere else."* - Brandon Johnson on the importance of his Mayoral Candidacy
+> *"The whole world is watching because if we can do this in Chicago, we can do it everywhere else."* - Brandon Johnson on the importance of his Mayoral Candidacy
 
-This is a multi-generational, multi-racial movement that takes all of us to enact change. I hope that you will join us and do your part because we can't do it without you: it takes all kinds to progress the advancement of human rights. ✊
+This is a multi-generational, multi-racial movement that takes all of us to enact change. I hope that you will join us because we can't do it without you: it takes all kinds to progress the advancement of human rights. ✊
 
-**The Chicago Mayoral Runoff Election is on April 4th, 2023. Let’s get to work. 👷‍♀️👷👷‍♂️🛠️⚒️**
+# **The Chicago Mayoral Runoff Election is on April 4th, 2023. Let’s get to work. 👷‍♀️👷👷‍♂️🛠️⚒️**
 
-*–- Signed, Jillian Somera*
+## *–- Signed, Jillian Somera*
 - ➕ *Your Friendly, Neighborhood Election Coordinator for the City of Chicago and Citizen of the 32nd Ward 💙🤍❤️🤍💙*
 - ➕ *Senior Software Engineer who built multimillion dollar fraud detection technology that continues to impact millions of Americans daily*
-- ➕ *Other Manic-Accelerated Talents 🎸🎨👯‍♂️👩‍🍳🏄‍♀️📝*
+- ➕ *Other Manic-Accelerated Talents, Thanks Bipolar Disorder Type I 🎸🎨👯‍♂️👩‍🍳🏄‍♀️📝*
 
 ## Contribute
 
