@@ -24,7 +24,7 @@ Good question 💡.
 
 ## What Values Brandon Johnson and I Share
 
-Now, here are the values and the issues I care about as a tech worker that are shared by Brandon Johnson as outlined by ChatGPT:
+🙋‍♀️ Now, here are the values and the issues I care about as a tech worker and general human being that are shared by Brandon Johnson as outlined by ChatGPT:
 - Addressing gender inequity
 - Addressing pay disparity for girls, women, transgender, and gender non-conforming persons
 - Public Safety: Addressing gender-based violence, sexual assault, providing economic opportunities for women and girls
