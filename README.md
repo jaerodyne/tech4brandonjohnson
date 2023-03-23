@@ -79,3 +79,9 @@ yarn test
 4. Enable Git Gateway.
 
 _Note: You'll need to specify the Netlify URL when browsing the admin page locally._
+
+
+### OG Inspo
+- https://chicagoreader.com/arts-culture/artists-are-all-in-for-brandon-johnson/
+- https://docs.google.com/document/d/1QDzMXSBdbrdQabx2dcdr6YCs8z5vPbKabmUSCPm9oGA/preview
+- https://docs.google.com/forms/d/e/1FAIpQLSd8uZIA-ZJ5mvSfYntM1RdhlhXCGzr9apGHah3ORpzAQegk0A/viewform
