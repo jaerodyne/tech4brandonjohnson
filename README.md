@@ -6,9 +6,9 @@
 Visit [https://tech4brandonjohnson.com](https://tech4brandonjohnson.com) to sign the pledge in support of Brandon Johnson, future mayor of the City of Chicago.
 
 ## Why should I care?
-Good question 💡.
+💡 **Good question.**
 
-1. I asked [ChatGPT](https://chat.openai.com/) to summarize the why for us.
+1. 🤖 I asked [ChatGPT](https://chat.openai.com/) to summarize the why for us.
 
 > Me: I'm going to give you Brandon Johnson's position statement on gender rights, I would like you to write me a 3-5 sentence summary that would appeal to people who work in tech and convince them to vote for Brandon Johnson. do you understand?
 
@@ -16,9 +16,9 @@ Good question 💡.
 
 <img width="786" alt="Screenshot 2023-03-22 at 4 06 00 PM" src="https://user-images.githubusercontent.com/17561356/227047037-f0491c7f-7bf5-41eb-9935-3f13af4eec04.png">
 
-2. I then copied and pasted Brandon Johnson's [stance and plan on addressing gender-equity issues from his official website](https://www.brandonforchicago.com/issues/gender-equity) into ChatGPT.
+2. 👩‍💻 I then copied and pasted Brandon Johnson's [stance and plan on addressing gender-equity issues from his official website](https://www.brandonforchicago.com/issues/gender-equity) into ChatGPT.
 
-3. ChatGPT has spoken 📣.
+3. 📣 ChatGPT has spoken.
 > ChatGPT: Brandon Johnson has developed a comprehensive gender equity and justice plan for Chicago to address discrimination and pay disparities faced by girls, women, and transgender and gender non-conforming persons in the city. Johnson aims to make Chicago a national model for gender equity and reproductive rights. His plan includes launching a citywide effort to end gender-based violence and sexual assault, advancing economic opportunities for women and girls, expanding health care access and protecting reproductive rights, and strengthening care infrastructure. Johnson also plans to create an Office of Gender Equity, establish a missing persons initiative, combat violence against trans women of color, and hold companies accountable for their workforce commitments. His plan addresses issues such as domestic violence, equal pay, women-owned businesses, mental health clinics, and paid parental leave.
 <img width="787" alt="Screenshot 2023-03-22 at 4 06 11 PM" src="https://user-images.githubusercontent.com/17561356/227047456-4c6756af-0e2c-4fd2-b6c2-636ed9c96f6c.png">
 
