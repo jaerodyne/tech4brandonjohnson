@@ -38,7 +38,7 @@ Visit [https://tech4brandonjohnson.com](https://tech4brandonjohnson.com) to sign
 
 🥧 Our leaders have failed us. Despite performative efforts, the staggering wealth of our nation still belongs to the rich, white, and male 1%. Meanwhile, the rest of us 99% continue to toil and serve capitalism to fight for our piece of the pie.
 
-🥊 Brandon Johnson is a born, bred, and active Chicagoan who is a former Chicago Public Schools educator, community organizer, and future public office collaborator who runs in opposition to Paul Vallas, a far-right affiliated white supremacist who has eradicated public education in New Orleans, Philadelphia, and Bridgeport, Connecticut. Read more on Vallas's anti-union legacy [here](https://stopvallas.com/anti-union-privatization/).
+🥊 Brandon Johnson is a born, bred, and active Chicagoan who is a former Chicago Public Schools educator, community organizer, elected Cook County Commissioner, and public office collaborator who runs in opposition to Paul Vallas, a far-right affiliated white supremacist who has eradicated public education in New Orleans, Philadelphia, and Bridgeport, Connecticut. Read more on Vallas's anti-union legacy [here](https://stopvallas.com/anti-union-privatization/).
 
 🌎 The Mayoral Race in the City of Chicago represents that great plight that we feel all around the world and presents us with the unique opportunity to bring down an oppressive regime and its systems that continue to marginalize, harm, and exploit whole individual identities, communities, and families that fall outside of the narrow definition of what societal success looks like.
 
