@@ -59,7 +59,7 @@ This is a multi-generational, multi-racial movement that takes all of us to enac
 **P.S. ✨🎉 Shout-out to my fellow neurodivergents cuz we out here working through our trauma in real-time and yet are somehow still committed to making the world a better place 💁‍♀️✨**
 
 ## What else can I do?
-- GET EVERY ELIGIBLE CHICAGOAN TO GO OUT THERE AND [VOTE](https://www.chicagoelections.gov/en/your-voter-information.html) BECAUSE THE POLLS CLOSE @ 7 PM CT!
+- GET EVERY ELIGIBLE CHICAGOAN TO GO OUT THERE AND [VOTE](https://www.chicagoelections.gov/en/your-voter-information.html) BECAUSE THE POLLS CLOSE TODAY @ 7 PM CT!
 
 # Bluise - A Nuxt.js & Netlify CMS boilerplate.
 
