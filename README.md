@@ -51,20 +51,15 @@ This is a multi-generational, multi-racial movement that takes all of us to enac
 # **The Chicago Mayoral Runoff Election is on April 4th, 2023. Let’s get to work. 👷‍♀️👷👷‍♂️🛠️⚒️**
 
 ## *–- Signed, Jillian Somera*
-- *Your Friendly, Neighborhood Election Judge for the City of Chicago and Citizen of the 32nd Ward 💙🤍❤️🤍💙*
+- *Your Friendly, Neighborhood Election Judge & Tagalog Translator for the City of Chicago and Citizen of the 32nd Ward 💙🤍❤️🤍💙*
 - *Sr. Software Engineer who built multimillion dollar fraud detection technology that continues to protect millions of Americans daily*
 - *Polyglot🇺🇸🇵🇭🇯🇵🇲🇽✚*
 - *Other Manic-Accelerated Talents, Thanks Bipolar Disorder Type I 🎸🥁🎤🎹👩‍🎤🎨👯‍♂️👩‍🍳🏄‍♀️📝*
 
 **P.S. ✨🎉 Shout-out to my fellow neurodivergents cuz we out here working through our trauma in real-time and yet are somehow still committed to making the world a better place 💁‍♀️✨**
 
-## Contribute Tech Skillz 👩‍💻🧑‍💻👨🏿‍💻👩🏾‍💻👩🏻‍💻
-
-**Wanna get involved in the good fight and block the far-right affiliated white supremacist opposition from upholding the same old shit? Help build some tech. Feel free to contribute to any of these soon to be real open-source repos:**
-1. [Ask Brandon](https://github.com/jaerodyne/askbrandon4chicago) - A Bot that you can ask about Brandon Johnson's political platform + his fav restaurant in Chicago
-2. Early Voting in Chicago d3 Map - An interactive map of Chicago's wards and where you can vote early
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gomah/bluise)
+## What else can I do?
+- GET EVERY ELIGIBLE CHICAGOAN TO GO OUT THERE AND [VOTE](https://www.chicagoelections.gov/en/your-voter-information.html) BECAUSE THE POLLS CLOSE @ 7 PM CT!
 
 # Bluise - A Nuxt.js & Netlify CMS boilerplate.
 
