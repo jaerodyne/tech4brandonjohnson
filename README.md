@@ -3,7 +3,10 @@
 # 🚧 Under Construction, Pardon the Mess ✨
 
 ## What Is This?
-Visit [https://tech4brandonjohnson.com](https://tech4brandonjohnson.com) to sign the pledge in support of Brandon Johnson, future mayor of the City of Chicago.
+### A PLOT TO GET EVERY ELIGIBLE CHICAGOAN TO GO OUT THERE AND VOTE BECAUSE THE POLLS CLOSE TODAY @ 7 PM CT! 🎉
+
+JK THIS ISN'T READY DON'T JUDGE ME HEHE
+~Visit [https://tech4brandonjohnson.com](https://tech4brandonjohnson.com) to sign the pledge in support of Brandon Johnson, future mayor of the City of Chicago.~
 
 ## Why should I care?
 💡 **Good question.**
