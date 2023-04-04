@@ -1,6 +1,6 @@
 ![tech4brandonjohnson](https://user-images.githubusercontent.com/17561356/227013522-77e857da-5967-4c8e-af96-cf350de15e4a.png)
 
-# 🚧 Under Construction, Pardon the Mess ✨
+# 🚧 Democracy Under Construction, Pardon the Mess ✨
 
 ## What Is This?
 ### A PLOT TO GET EVERY ELIGIBLE CHICAGOAN TO GO OUT THERE AND VOTE BECAUSE THE POLLS CLOSE TODAY @ 7 PM CT! 🎉
